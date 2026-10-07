@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "plugins": {
+    "mcp-server-for-wordpress": {
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "wordpress",
+            "description": "http"
+          }
+        ]
+      }
+    }
+  }
+}

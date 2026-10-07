@@ -1,0 +1,22 @@
+{
+  "name": "miniorange-grok-plugins",
+  "description": "Grok Build plugins published by miniOrange",
+  "owner": {
+    "name": "miniOrange",
+    "email": "info@xecurify.com"
+  },
+  "plugins": [
+    {
+      "name": "mcp-server-for-wordpress",
+      "description": "Connect Grok to your WordPress site via the miniOrange MCP gateway. Grok can use the abilities exposed by your WordPress Abilities API to perform actions on your site. Sign in with OAuth on first connect; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./plugins/mcp-server-for-wordpress"
+      },
+      "homepage": "https://plugins.miniorange.com/mcp-server-ai-policy-enforcement-wordpress",
+      "keywords": ["miniorange", "miniorange mcp", "miniorange wordpress", "miniorange secure mcp server"],
+      "domains": ["gateway.miniorange.ai"]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mcp-server-for-wordpress",
+  "displayName": "MCP Server for WordPress",
+  "version": "0.1.0",
+  "description": "Connect your WordPress site to Grok via the miniOrange MCP gateway. Grok can use the abilities exposed by your WordPress Abilities API to perform actions on your WordPress site.",
+  "author": {
+    "name": "miniOrange",
+    "email": "info@xecurify.com",
+    "url": "https://www.miniorange.com"
+  },
+  "homepage": "https://plugins.miniorange.com/mcp-server-ai-policy-enforcement-wordpress",
+  "license": "MIT",
+  "keywords": ["miniorange", "miniorange mcp", "miniorange wordpress", "miniorange secure mcp server"],
+  "logo": "assets/logo.png"
+}
